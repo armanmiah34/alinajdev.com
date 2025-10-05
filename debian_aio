@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://alinajdev.com/api/authentication';
 API_KEY='@@@PANEL@@@';
-DOMAIN=a4uo.tr-tunnel.ggff.net
-NS=ouem.tr-tunnel.ggff.net
+DOMAIN=ues5.tr-tunnel.ggff.net
+NS=xvjc.tr-tunnel.ggff.net
 
 #---------------[ Timezone ]-------------------------
 timedatectl set-timezone Asia/Manila
